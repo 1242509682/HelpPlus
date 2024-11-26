@@ -1,6 +1,6 @@
 ﻿# HelpPlus 更好的帮助
 
-- 作者: Cai 羽学
+- 作者: [Cai](https://github.com/ACaiCat) 羽学
 - 出处: [Tshock中文插件收集仓](https://github.com/UnrealMultiple/TShockPlugin)
 - 为/help添加简短提示
 - 使用/help <命令> 可以看见该命令的权限名或者更多信息

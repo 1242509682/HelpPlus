@@ -1,6 +1,6 @@
 ﻿# HelpPlus
 
-- Authors: Cai YuXue
+- Authors: [Cai](https://github.com/ACaiCat) YuXue
 - Source: Here
   Fix the issue where the /help command cannot be used in non-English Lang.
   Add a brief prompt for /help.
